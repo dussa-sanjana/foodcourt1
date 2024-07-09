@@ -1,0 +1,207 @@
+.footer{
+    background-color :#d0e1fd;
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+}
+.icona img  {
+    width:"50px";
+    height:"70px";
+    margin-left:"5px";
+}
+.isthara{
+    width:200px;
+    height:70px;
+    margin-left:30px;
+}
+.googleplay{
+    width:120px;
+    height:50px;
+    margin-left:34px;
+}
+.applestore{
+    width:120px;
+    height:50px;
+    margin-left:34px;
+}
+.top{
+    padding-top:30px;
+    display:flex;
+    gap:30px
+}
+.is{
+    font-family: sentientReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #0b1625;
+}
+.subis{
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0b1625;
+    opacity: .7;
+    cursor: pointer;
+    margin-bottom: 24px;
+}
+.istharacol{
+    margin-left:30px;
+}
+.vl{
+    width: 1px; /* Width of the line */
+    height: 100px; /* Height of the line */
+    background-color: black; /* Color of the line */
+    margin-left:70px;
+    margin-top: 70px;
+    color:grey;
+}
+.pt{
+    font-family: sentientReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #0b1625;
+}
+.subpt{
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0b1625;
+    opacity: .7;
+    cursor: pointer;
+    margin-bottom: 24px;
+}
+.partnershipcol{
+    margin-left:70px;
+}
+.supportcol
+{
+    margin-left:70px;
+}
+.sp{
+    font-family: sentientReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #0b1625;
+}
+.subsp{
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0b1625;
+    opacity: .7;
+    cursor: pointer;
+    margin-bottom: 24px;
+}
+.hl{
+    width: 850px; /* Width of the line */
+    height: 1px; /* Height of the line */
+    background-color: black; /* Color of the line */
+    margin-left:270px;
+    margin-top: 20px;
+    margin-right:250px;
+    color:grey;
+}
+.middle{
+    display:flex;
+    flex-direction: column;
+    gap:30px;
+    margin-left: 279px;
+}
+.ourpresence{
+    font-family: sentientReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #0b1625;
+    margin-bottom: 0;
+    
+}
+
+
+
+.multi{
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #0b1625;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.list{
+    width: 30%;
+    cursor: pointer;
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0b1625;
+    opacity: .7;
+    display:flex;
+    padding:0;
+    
+    margin-right: 10px;
+    gap:250px;
+    list-style-type:none;
+    margin-right: 200px;
+}
+.list2{
+    width: 30%;
+    cursor: pointer;
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0b1625;
+    opacity: .7;
+    display:inline;
+    gap:50px;
+    list-style-type:none;
+    margin-right: 200px;
+}
+.co{
+    font-family: satoshiReg;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #0b1625;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.hll{
+    width: 1100px; /* Width of the line */
+    height: 1px; /* Height of the line */
+    background-color: grey; /* Color of the line */
+    margin-left:50px;
+    margin-top: 20px;
+    margin-right:250px;
+    
+}
+.bottom{
+    display:flex;
+    justify-content: space-between;
+}
+.text{
+    display:flex;
+    gap:40px;
+    margin-left: 50px;
+}
+.sym1{
+    display: flex;
+    gap:50px;
+    margin-right: 10pxpx;
+    margin-top: 20px;
+}
+.link{
+    margin-right: 80px;
+}
+
+
+

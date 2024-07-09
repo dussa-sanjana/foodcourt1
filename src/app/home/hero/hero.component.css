@@ -1,0 +1,216 @@
+.hero{
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    padding-bottom:40px
+}
+h2{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: sentientReg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #0b1625;
+}
+
+.menuitems{
+    
+    
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    gap:20px;
+    overflow-x: scroll;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.menuitems::-webkit-scrollbar{
+    display:none;
+}
+.list
+{
+    border-radius: 10px;
+    width: 150px;
+    padding: 20px;
+    
+}
+.images1{
+    height: 140px;
+    width:140px;
+    border-radius: 50%;
+}
+.quickbites{
+   margin-top:8%;
+}
+.min10{
+    display:flex;
+    justify-content: space-evenly;
+    gap:20px;
+    overflow:scroll;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.min10::-webkit-scrollbar{
+    display:none;
+}
+.bites{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border:1px solid black;
+    border-color: #0b1625;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+.button{
+    color: #fff;
+    background-color: #c53053;
+    border:transparent;
+    width:300px;
+    height:45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.dish{
+    padding: 3px 0;
+        font-family: satoshiBold;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #0b1625;
+        margin-left:5%;
+}
+.loc{
+    font-family: satoshiReg;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        color: #999;
+        margin-left:5%;
+}
+.price{
+    padding: 8px 0;
+        font-family: satoshiReg;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #0b1625;
+        margin-left:5%;
+}
+.dishes{
+    padding: 3px 0;
+    font-family: satoshiBold;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0b1625;
+    margin-left:5%;
+}
+.loca{
+    font-family: satoshiReg;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        color: #999;
+        margin-left:5%;
+}
+.prices{
+    padding: 8px 0;
+        font-family: satoshiReg;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        color: #0b1625;
+        margin-left:5%;
+}
+.spt{
+    margin-top:8%;
+}
+.buttons{
+    color: #fff;
+    background-color: #c53053;
+    border:transparent;
+    width:300px;
+    height:45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.spotlight{
+    display:flex;
+    justify-content: space-evenly;
+    gap:20px;
+    overflow:scroll;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.spot{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border:1px solid black;
+    border-color: #0b1625;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width:300px
+}
+.spt-img
+{
+    width:300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 150px;
+}
+.spotlight::-webkit-scrollbar{
+    display:none;
+}
+.all{
+    margin-top:8%;
+}
+.resimage{
+    width:300px;
+    height: 150px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.restaurant{
+    display:grid;
+    grid-template-columns: 28% 28% 28%;
+    gap:30px;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.res{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border:1px solid black;
+    border-color: grey;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width:300px;
+    box-shadow: 1px 1px 10px grey;
+}
+.reslist{
+    display:grid;
+    grid-template-columns: 28% 28% 28%;
+    gap: 15px;
+}
+.resname{
+    margin-left: 5px;
+    font-family: satoshiReg;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        color: #0b1625;
+}
+.resrate{
+    margin-left: 5px;
+}
+.rate{
+    display:flex;
+    align-items: center;
+    flex:1;
+    margin-left: 5px;
+}
